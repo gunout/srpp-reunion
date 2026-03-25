@@ -78,7 +78,7 @@ st.markdown("""
     }
     
     .neon-border > div {
-        background: white;
+        background: black;
         border-radius: 18px;
         padding: 1rem;
     }
