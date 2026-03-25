@@ -61,7 +61,7 @@ st.markdown("""
     }
     
     .glass-card {
-        background: rgba(255, 255, 255, 0.95);
+        background: rgba(19, 19, 19, 0.95);
         backdrop-filter: blur(10px);
         border-radius: 20px;
         padding: 1.5rem;
