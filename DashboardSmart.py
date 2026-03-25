@@ -41,7 +41,7 @@ st.markdown("""
         transform: translateY(-5px);
     }
     .stock-card {
-        background: white;
+        background: black;
         border-radius: 15px;
         padding: 1rem;
         margin: 0.5rem 0;
